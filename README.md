@@ -1,7 +1,7 @@
-# Muzyczny Sklep - Dokumentacja Projektu
+# Sklep Muzyczny
 
 ## Opis projektu
-Muzyczny Sklep to aplikacja internetowa umożliwiająca zarządzanie produktami muzycznymi, zamówieniami oraz interakcję użytkowników w przyjaznym interfejsie. Projekt wspiera również dostępność dla osób z niepełnosprawnościami.
+Sklep muzyczny to aplikacja internetowa umożliwiająca zarządzanie produktami muzycznymi, zamówieniami oraz interakcję użytkowników w przyjaznym interfejsie. Projekt wspiera również dostępność dla osób z niepełnosprawnościami.
 
 ## Funkcjonalności
 1. **Zarządzanie produktami**:
